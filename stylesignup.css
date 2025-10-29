@@ -1,0 +1,17 @@
+h1 { text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-decoration-color: rgb(37, 61, 39);
+    border: 1px solid rgb(69, 57, 57);
+    padding: 20px 100px;
+    background-color:rgb(55, 78, 58);
+    border-radius: 6px;
+    box-shadow: 0 3px 5px rgb(28, 66, 27);
+    text-align: left;
+}
+body {
+    font-family: san-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color: rgb(152, 164, 154);
+}
+p { text-decoration: solid;}
