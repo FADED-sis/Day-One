@@ -1,5 +1,10 @@
-alert("Welcome To Sign-up Page!");
-document.getElementById("signupBtn").onclick = function(){
+//alert("Welcome To Sign-up Page!");
+document.getElementById("trial").onclick = function(){
     alert("Congratulation! You have signed in.");
 }
-button.addEventListner('click', e=> {lable.textContent='Congrats, you have signed up!'});
+
+const button = document.getElementById("trial");
+const demo = document.getElementById("demo");
+ button.addEventListener("click", function() {
+    demo.innerHTML = " Congrats, you have signed up!";
+ });
